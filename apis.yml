@@ -1,7 +1,36 @@
 aid: arago
 name: Arago
-description: Arago is a company surfaced as a portfolio company of earlybird and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Arago (Arago Computing SAS) is a Paris-based deeptech semiconductor startup,
+  founded in 2024 by Nicolas Muller, Ambroise Muller, and Eliott Sarrey, building
+  energy-efficient AI accelerators powered by light rather than electricity. Its
+  photonic processor, codenamed JEF, uses a proprietary multi-physics computing
+  core that encodes values with lasers instead of thousands of transistor
+  switches, targeting 10x to 30x reductions in energy and cost overhead for AI
+  workloads at equivalent performance to leading GPUs. Arago pairs the hardware
+  with a full software stack called CARLOTA, which abstracts the complexities of
+  photonic computing and exposes a programmable interface compatible with
+  mainstream AI frameworks such as PyTorch and TensorFlow, while remaining
+  fabbable using standard semiconductor processes. The company operates across
+  France, North America, and Israel, and in July 2025 raised an oversubscribed
+  $26 million seed round co-led by Earlybird, Protagonist, and Visionaries
+  Tomorrow, with backing from executives and investors tied to Apple, Arm,
+  Nvidia, Microsoft, Amazon, Uber, PayPal, and Hugging Face. Arago was added to
+  the API Evangelist network as a portfolio company of Earlybird; as an
+  early-stage hardware company it does not yet publish a public developer API or
+  OpenAPI surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.arago.inc/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/arago/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +40,39 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Deep Tech
+- Semiconductors
+- Photonics
+- Artificial Intelligence
+- AI Chips
+- AI Accelerators
+- Hardware
+- Energy Efficiency
+- Compute Infrastructure
 apis: []
+common:
+- type: Website
+  url: https://www.arago.inc/
+- type: TermsOfService
+  url: https://www.arago.inc/terms-of-use
+- type: SignUp
+  url: https://www.arago.inc/#contact
+- type: Jobs
+  url: https://jobs.ashbyhq.com/arago
+- type: LinkedIn
+  url: https://www.linkedin.com/company/aragoinc/
+- type: Contact
+  url: mailto:contact@arago.inc
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
