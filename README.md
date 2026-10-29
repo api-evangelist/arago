@@ -64,6 +64,71 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Arago is a company surfaced as a portfolio company of earlybird and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Arago (Arago Computing SAS) is a Paris-based deeptech semiconductor startup, founded in 2024 by Nicolas Muller, Ambroise Muller, and Eliott Sarrey, building energy-efficient AI accelerators powered by light rather than electricity. Its photonic processor, codenamed JEF, uses a proprietary multi-physics computing core that encodes values with lasers instead of thousands of transistor switches, targeting 10x to 30x reductions in energy and cost overhead for AI workloads at equivalent performance to leading GPUs. Arago pairs the hardware with a full software stack called CARLOTA, which abstracts the complexities of photonic computing and exposes a programmable interface compatible with mainstream AI frameworks such as PyTorch and TensorFlow, while remaining fabbable using standard semiconductor processes. The company operates across France, North America, and Israel, and in July 2025 raised an oversubscribed $26 million seed round co-led by Earlybird, Protagonist, and Visionaries Tomorrow, with backing from executives and investors tied to Apple, Arm, Nvidia, Microsoft, Amazon, Uber, PayPal, and Hugging Face. Arago was added to the API Evangelist network as a portfolio company of Earlybird; as an early-stage hardware company it does not yet publish a public developer API or OpenAPI surface.
 
-Backed by: earlybird
+**Areas:** Company · Deep Tech · Semiconductors · Photonics · Artificial Intelligence · AI Chips · AI Accelerators · Hardware · Energy Efficiency · Compute Infrastructure
+
+## Arago on APIs.io
+
+Everything profiled for Arago is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/arago/](https://apis.io/providers/arago/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.arago.inc/)
+- [Sign up](https://www.arago.inc/#contact)
+- [Terms of service](https://www.arago.inc/terms-of-use)
+
+## API Evangelist rating
+
+**Kin Score 6.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 17.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 3.1** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/arago/](https://apis.io/providers/arago/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Arago: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/arago/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
